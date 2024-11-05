@@ -1,0 +1,15 @@
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+python-box==6.0.2
+pyYAML
+tqdm
+ensure==1.0.2
+joblib
+types-PyYAML
+Flask
+Flask-Cors
+plotly_express
+-e .
