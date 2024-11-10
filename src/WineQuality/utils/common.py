@@ -1,5 +1,5 @@
 import os
-from box_exceptions import BoxValueError
+from box.exceptions import BoxValueError
 import yaml
 from WineQuality import logger
 import json
